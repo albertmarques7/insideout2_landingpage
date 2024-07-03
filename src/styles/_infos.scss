@@ -1,0 +1,98 @@
+@use 'variables';
+
+.infos {
+    background-image: url(../images/insideout2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 560px;
+
+    @media(max-width:640px) {
+        height: 548px;
+        width: 100%;
+        background-color: variables.$sinopseColor;
+        background-image: url(../images/fundo.jpg);
+    }
+    &__container {
+        $background-color: #ffffff;
+        $card-background-color: #edf9fa;
+        $text-color: #333;
+        $border-color: #ccc;
+        $highlight-color: #ff0707;
+        display: grid;
+        grid-template-columns: 70% 30%;
+        padding-top: 120px;
+
+        @media(max-width:640px) {
+            display: block;
+            padding: 0px;
+            min-height: 924px;
+            $card-background-color: rgba(152, 227, 234, 0.5); // 50% transparência
+            &__card {
+                margin: 83px;
+                margin-top: 120px;
+                padding-top: 0px;
+                margin-left: 18px;
+                font-size: 12px;
+                width: 61%;
+                }
+        }
+        &__logo {
+            width: 328px;
+            right: 376px;
+
+            @media(max-width:640px){
+                    width:50px;
+                    right:76px;
+                    padding-top: 7px;
+                    position: relative;
+            }
+        }
+        &__card {
+            padding-inline-end: 66px;
+            justify-content: flex-end;
+            left: 772px;
+            top: -164px;
+            background-color: $card-background-color;
+            border: 1px solid $border-color;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 260px;
+            text-align: center;
+            display: block;
+            &__title {
+                display: flex;
+                padding-bottom: 16px;
+                font-size: variables.$titleFont-size;
+                color: variables.$blue;
+            }
+            h1 {
+                color: variables.$softyellow ;
+                margin-bottom: 20px;
+                font-family: variables.$primaryFont;
+            }
+
+            ul {
+                list-style: none;
+                padding: 0;
+
+                li {
+                    margin-bottom: 10px;
+                    text-align: left;
+
+                    strong {
+                        color: $highlight-color;
+                    }
+
+                    ul {
+                        margin-top: 10px;
+
+                        li {
+                            margin-bottom: 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

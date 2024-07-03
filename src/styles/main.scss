@@ -1,0 +1,22 @@
+@use 'hero';
+@use 'header';
+@use 'variables';
+@use 'sinopse';
+@use 'characters';
+@use 'infos';
+@use'footer';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing : border-box;
+    list-style: none;
+    font-family: variables.$primaryFont, variables.$secondaryFont;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+

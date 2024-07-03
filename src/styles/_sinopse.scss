@@ -1,0 +1,70 @@
+@use 'variables';
+
+.sinopse {
+    background-color: variables.$sinopseColor;
+    font-size: variables.$titleFont-size;
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+
+    @media(max-width:640px) {
+        .sinopse{
+            &__title {
+                padding-left: 28px;
+            }
+            &__container {
+                display: block;
+                &__text {
+                    box-sizing: border-box;
+                    overflow: hidden;
+                    display: block;
+                    padding-left: 40px;
+                }
+                iframe {
+                    margin-top: 10px;
+                    position: inherit;
+                    bottom: 22px;
+                    right: 14px;
+                    padding-left: 40px;
+                    width: 80%;
+                    @media(max-width:640px){
+                        margin-left: 40px;
+                    }
+                }
+            }
+        }
+    }
+    h2 {
+        margin-left: 12px;
+    }
+
+    &__title {
+        color: variables.$textColor;
+        padding-top: 6px;
+        font-size: variables.$titleFont-size;
+    }
+
+    &__container {
+        font-family: variables.$secondaryFont;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        &__text {
+            font-family: variables.$secondaryFont;
+            color: variables.$textColor;
+            font-size: 14px;
+            padding-left: 12px;
+            padding-top: 10px;
+            padding-right: 40px;
+            font-weight: lighter;
+        }
+
+        iframe {
+            bottom: 22px;
+            position: relative;
+            right: 14px;
+            margin-top: 10px;
+        }
+
+    }
+}

@@ -1,0 +1,12 @@
+@use 'variables';
+
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background-color: variables.$sinopseColor;
+    .footer__text {
+        font-size: 16px;
+        color: variables.$textColor
+    }
+}

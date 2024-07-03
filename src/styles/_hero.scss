@@ -1,0 +1,24 @@
+.hero {
+    &__container {
+        display: flex;
+
+        &__logo {
+            position: absolute;
+            width: 380px;
+            top: 152px;
+            left: 346px;
+            @media(max-width:640px) {
+                width: 184px;
+                top: 120px;
+                left: 128px;
+            }
+
+            @media(max-height:620px) {
+                display: none;
+            }
+        }
+        &__video {
+            max-width: 100%;
+        }
+    }
+}

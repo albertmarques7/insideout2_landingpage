@@ -1,0 +1,41 @@
+@use 'variables';
+header {
+        width: 100%;
+        margin: 0 auto;
+        font-family: variables.$primaryFont;
+        background-color: rgb(13, 181, 200);
+        align-items:center;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        display: block;
+
+        @media(max-width:640px) {
+            width: 100%;
+        }
+        @media(min-width:300px) {
+            width: 100%;
+            padding-left: 20px;
+            font-size: 12px;
+        }
+        ul {
+            display: flex;
+            padding-left: 540px;
+            gap: 18px;
+            @media(max-width:640px) {
+                width: 100%;
+                padding: 0;
+                justify-content: space-around;
+            }
+            li {
+                margin-right: 12px;
+                font-size: variables.$menuFont-size;
+                display: block;
+                
+                a {
+                    text-decoration: none;
+                    color: #ffff82;
+                    cursor: pointer;
+                }
+            }
+        }
+}
