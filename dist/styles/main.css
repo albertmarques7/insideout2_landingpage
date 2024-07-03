@@ -187,8 +187,8 @@ header ul li a {
   }
 
   .characters__nav__title {
+    display: center;
     margin-left: 10px;
-    display: inline;
   }
 }
 

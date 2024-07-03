@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){let e=document.querySelectorAll(".characters__nav__lista__item"),c=document.querySelectorAll(".characters__selecionado, .characters__selecionado--is-hidden");e.forEach((e,a)=>{e.addEventListener("click",function(){c.forEach(e=>{e.classList.add("characters__selecionado--is-hidden"),e.classList.remove("characters__selecionado")}),c[a].classList.remove("characters__selecionado--is-hidden"),c[a].classList.add("characters__selecionado")})})});
+//# sourceMappingURL=index.f4d280f9.js.map
