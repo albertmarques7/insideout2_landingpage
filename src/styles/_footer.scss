@@ -4,9 +4,9 @@
 .footer {
     padding: 20px;
     text-align: center;
-    background-color: variables.$sinopseColor;
+    background-color: variables.$headerbackgroundfootercolor;
     .footer__text {
         font-size: 16px;
-        color: variables.$textColor
+        color: variables.$headerfootercolor;
     }
 }

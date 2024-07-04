@@ -66,8 +66,13 @@
 
     &__nav {
         &__title {
-            text-align: end;
+            text-align: center;
             margin: 0px;
+            @media(max-width:640px) {
+                margin-left: 0px;
+                font-size: 38px;
+                text-align: center
+            }
         }
         font-size: variables.$titleFont-size;
         &__lista {
@@ -76,6 +81,9 @@
             display: flex;
             flex-wrap: wrap;
             padding-left: 15px;
+            @media(max-width:640px) {
+                margin-top: 10px;
+            }
             &__item {
                 display: block;
                 margin: 8px;
@@ -92,7 +100,7 @@
                     display: block;
                     text-align: center;
                     text-decoration: none;
-                    color: variables.$softyellow
+                    color: variables.$softyellow;
                 }
             }
 

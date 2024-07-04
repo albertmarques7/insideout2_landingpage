@@ -1,4 +1,4 @@
-6099
+6128
 60C:\Users\alber\divertidamente2\node_modules\stable\README.md133637603894638605 0
 92C:\Users\alber\divertidamente2\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133637603903252643 0
 61C:\Users\alber\divertidamente2\node_modules\sass\sass.dart.js133637603909302669 0
@@ -20,8 +20,8 @@
 86C:\Users\alber\divertidamente2\node_modules\node-gyp-build-optional-packages\README.md133637603898256260 0
 40C:\Users\alber\divertidamente2\src\fonts133637607530066737 1
 70C:\Users\alber\divertidamente2\node_modules\msgpackr\dist\node.cjs.map133637603907084418 0
+55C:\Users\alber\divertidamente2\dist\styles\main.css.map133645369642579175 0
 81C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\walker133637603909246238 1
-55C:\Users\alber\divertidamente2\dist\styles\main.css.map133645171411909994 0
 108C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133637603901848330 0
 77C:\Users\alber\divertidamente2\node_modules\sass\types\value\calculation.d.ts133637603909948126 0
 65C:\Users\alber\divertidamente2\node_modules\mdn-data\package.json133637603902371027 0
@@ -32,8 +32,19 @@
 66C:\Users\alber\divertidamente2\node_modules\update-browserslist-db133644522722705781 1
 82C:\Users\alber\divertidamente2\node_modules\css-tree\lib\syntax\atrule\supports.js133637603915881918 0
 66C:\Users\alber\divertidamente2\node_modules\msgpackr\dist\node.cjs133637603897457817 0
-51C:\Users\alber\divertidamente2\dist\styles\main.css133645171411823481 0
+51C:\Users\alber\divertidamente2\dist\styles\main.css133645369642417974 0
 82C:\Users\alber\divertidamente2\node_modules\@swc\helpers\cjs\_set_prototype_of.cjs133637603909417363 0
+116C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\import.js133637603908591734 0
+95C:\Users\alber\divertidamente2\node_modules\@parcel\transformer-react-refresh-wrap\package.json133637603899540799 0
+72C:\Users\alber\divertidamente2\node_modules\ordered-binary\tests\test.js133637603898419210 0
+62C:\Users\alber\divertidamente2\node_modules\css-what\readme.md133637603903505962 0
+92C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib133637603909030466 1
+56C:\Users\alber\divertidamente2\src\images\tristeza-1.png133645035698357993 0
+76C:\Users\alber\divertidamente2\node_modules\regenerator-runtime\package.json133637603896132681 0
+74C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_identity.mjs133637603922010689 0
+85C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_object_spread_props.mjs133637603922376150 0
+46C:\Users\alber\divertidamente2\dist\index.html133645368223063625 0
+62C:\Users\alber\divertidamente2\node_modules\lmdb\src\windows.c133637603910303997 0
 71C:\Users\alber\divertidamente2\node_modules\@parcel\events\src\types.js133637603900136900 0
 101C:\Users\alber\divertidamente2\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133637603902019986 0
 61C:\Users\alber\divertidamente2\node_modules\commander\typings133637603899695186 1
@@ -41,7 +52,7 @@
 75C:\Users\alber\divertidamente2\node_modules\source-map\lib\binary-search.js133637603899340887 0
 75C:\Users\alber\divertidamente2\node_modules\@parcel\utils\src\objectHash.js133637603907878412 0
 84C:\Users\alber\divertidamente2\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133637603913004498 0
-43C:\Users\alber\divertidamente2\package.json133642870250162475 0
+43C:\Users\alber\divertidamente2\package.json133645338259165093 0
 100C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\domutils\lib\manipulation.js.map133637603906366017 0
 85C:\Users\alber\divertidamente2\node_modules\@parcel\packager-html\lib\HTMLPackager.js133637603894347955 0
 56C:\Users\alber\divertidamente2\node_modules\htmlnano\lib133637603910387421 1
@@ -58,7 +69,7 @@
 64C:\Users\alber\divertidamente2\node_modules\semver\bin\semver.js133637603906616071 0
 119C:\Users\alber\divertidamente2\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133637603895049805 0
 101C:\Users\alber\divertidamente2\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133637603906135055 0
-35C:\Users\alber\divertidamente2\dist133645160246103974 1
+35C:\Users\alber\divertidamente2\dist133645368223103667 1
 79C:\Users\alber\divertidamente2\node_modules\update-browserslist-db\package.json133644522722653186 0
 76C:\Users\alber\divertidamente2\node_modules\css-tree\cjs\tokenizer\types.cjs133637603912756762 0
 61C:\Users\alber\divertidamente2\node_modules\@msgpackr-extract133645029895853287 1
@@ -110,7 +121,7 @@
 80C:\Users\alber\divertidamente2\node_modules\node-addon-api\tools\clang-format.js133637603902347161 0
 64C:\Users\alber\divertidamente2\node_modules\term-size\index.d.ts133637603900020255 0
 68C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_decorate133637603915901919 1
-45C:\Users\alber\divertidamente2\src\index.html133645147007652931 0
+45C:\Users\alber\divertidamente2\src\index.html133645365962919530 0
 94C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\lib\syntax\node\Rule.js133637603915451715 0
 107C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\package.json133637603902226899 0
 83C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_iterable_to_array_limit133637603919366753 1
@@ -129,7 +140,7 @@
 96C:\Users\alber\divertidamente2\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133637603902455064 0
 123C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\DeclarationList.js133637603906894349 0
 79C:\Users\alber\divertidamente2\node_modules\@parcel\runtime-browser-hmr\LICENSE133637603893629635 0
-58C:\Users\alber\divertidamente2\src\styles\_characters.scss133645165002749661 0
+58C:\Users\alber\divertidamente2\src\styles\_characters.scss133645369638721998 0
 92C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\create.cjs133637603904939343 0
 60C:\Users\alber\divertidamente2\node_modules\tslib\tslib.html133637603894045610 0
 105C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\package.json133637603902113791 0
@@ -140,7 +151,7 @@
 108C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupAttrs.js133637603900177426 0
 52C:\Users\alber\divertidamente2\node_modules\csso\cjs133637603906912878 1
 118C:\Users\alber\divertidamente2\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133637603897604953 0
-54C:\Users\alber\divertidamente2\src\styles\_footer.scss133645068021337217 0
+54C:\Users\alber\divertidamente2\src\styles\_footer.scss133645349920766760 0
 126C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.js133637603897743485 0
 88C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\css-first-line.js133645029852131877 0
 64C:\Users\alber\divertidamente2\node_modules\posthtml-render\dist133637603897754542 1
@@ -156,15 +167,15 @@
 50C:\Users\alber\divertidamente2\src\images\sala.jpg133637678380415962 0
 114C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Atrule.js133637603897527710 0
 74C:\Users\alber\divertidamente2\node_modules\htmlparser2\lib\FeedHandler.js133637603894286865 0
-54C:\Users\alber\divertidamente2\src\styles\_header.scss133645145826479331 0
+54C:\Users\alber\divertidamente2\src\styles\_header.scss133645348860934245 0
 90C:\Users\alber\divertidamente2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133637603908492769 0
 66C:\Users\alber\divertidamente2\node_modules\json5\lib\stringify.js133637603899776873 0
 97C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133637603913044395 0
 60C:\Users\alber\divertidamente2\node_modules\chalk\index.d.ts133637603898841630 0
 89C:\Users\alber\divertidamente2\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133637603894333104 0
 62C:\Users\alber\divertidamente2\node_modules\msgpackr\pack.d.ts133637603908265533 0
-52C:\Users\alber\divertidamente2\src\styles\_hero.scss133645147965181680 0
-53C:\Users\alber\divertidamente2\src\styles\_infos.scss133645161337278111 0
+52C:\Users\alber\divertidamente2\src\styles\_hero.scss133645354374678190 0
+53C:\Users\alber\divertidamente2\src\styles\_infos.scss133645360533559592 0
 129C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133637603899841845 0
 56C:\Users\alber\divertidamente2\node_modules\import-fresh133637603896833150 1
 53C:\Users\alber\divertidamente2\node_modules\@mischnic133637603877484648 1
@@ -181,8 +192,8 @@
 56C:\Users\alber\divertidamente2\node_modules\svgo\LICENSE133637603893442222 0
 60C:\Users\alber\divertidamente2\node_modules\lmdb\SECURITY.md133637603913716552 0
 89C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\lib\lexer\index.js133637603914442587 0
-55C:\Users\alber\divertidamente2\src\styles\_sinopse.scss133645129926038158 0
-57C:\Users\alber\divertidamente2\src\styles\_variables.scss133638479282527421 0
+55C:\Users\alber\divertidamente2\src\styles\_sinopse.scss133645368773963811 0
+57C:\Users\alber\divertidamente2\src\styles\_variables.scss133645348308814977 0
 91C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133645029853387680 0
 67C:\Users\alber\divertidamente2\node_modules\ordered-binary\index.js133637603896833150 0
 51C:\Users\alber\divertidamente2\node_modules\timsort133637603899015985 1
@@ -268,6 +279,7 @@
 56C:\Users\alber\divertidamente2\node_modules\css-tree\cjs133637603913108638 1
 81C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\wasm-gc.js133645029862466773 0
 51C:\Users\alber\divertidamente2\src\images\raiva.jpg133637695708213684 0
+54C:\Users\alber\divertidamente2\dist\fundo.d1c151f3.jpg133645173965158485 0
 88C:\Users\alber\divertidamente2\node_modules\entities\lib\generated\decode-data-html.d.ts133637603904179610 0
 92C:\Users\alber\divertidamente2\node_modules\htmlnano\lib\modules\sortAttributesWithLists.cjs133637603905502963 0
 88C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_super_prop_base\package.json133637603920366247 0
@@ -294,14 +306,6 @@
 53C:\Users\alber\divertidamente2\src\images\tedio1.webp133645036989325913 0
 71C:\Users\alber\divertidamente2\node_modules\cosmiconfig\dist\merge.d.ts133637603907663307 0
 86C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\documenthead.js133645029854983191 0
-116C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\import.js133637603908591734 0
-95C:\Users\alber\divertidamente2\node_modules\@parcel\transformer-react-refresh-wrap\package.json133637603899540799 0
-72C:\Users\alber\divertidamente2\node_modules\ordered-binary\tests\test.js133637603898419210 0
-62C:\Users\alber\divertidamente2\node_modules\css-what\readme.md133637603903505962 0
-92C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib133637603909030466 1
-56C:\Users\alber\divertidamente2\src\images\tristeza-1.png133645035698357993 0
-76C:\Users\alber\divertidamente2\node_modules\regenerator-runtime\package.json133637603896132681 0
-74C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_identity.mjs133637603922010689 0
 54C:\Users\alber\divertidamente2\src\images\tristeza.jpg133637695401670546 0
 66C:\Users\alber\divertidamente2\node_modules\css-tree\lib\tokenizer133637603916807996 1
 50C:\Users\alber\divertidamente2\node_modules\@lezer133637603877776655 1
@@ -332,7 +336,7 @@
 53C:\Users\alber\divertidamente2\node_modules\@trysound133637603877507059 1
 79C:\Users\alber\divertidamente2\node_modules\type-fest\source\promise-value.d.ts133637603905372891 0
 93C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\keyboardevent-which.js133645029857559411 0
-56C:\Users\alber\divertidamente2\dist\alegria.b5d7a93e.jpg133645160238217834 0
+56C:\Users\alber\divertidamente2\dist\alegria.b5d7a93e.jpg133645351534160321 0
 66C:\Users\alber\divertidamente2\node_modules\mdn-data\l10n\index.js133637603897437666 0
 68C:\Users\alber\divertidamente2\node_modules\abortcontroller-polyfill133637603902072092 1
 60C:\Users\alber\divertidamente2\node_modules\js-yaml\lib\type133637603905560395 1
@@ -548,7 +552,7 @@
 91C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\index.cjs133637603908684686 0
 51C:\Users\alber\divertidamente2\node_modules\is-glob133637603895102407 1
 90C:\Users\alber\divertidamente2\node_modules\@swc\helpers\cjs\_class_private_field_init.cjs133637603904688836 0
-54C:\Users\alber\divertidamente2\dist\fundo.e4da96d5.jpg133645160238351525 0
+54C:\Users\alber\divertidamente2\dist\fundo.e4da96d5.jpg133645351533920739 0
 111C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-class-list.js133637603904803171 0
 73C:\Users\alber\divertidamente2\node_modules\@parcel\profiler\lib\Trace.js133637603898747931 0
 59C:\Users\alber\divertidamente2\node_modules\posthtml-parser133637603898409144 1
@@ -761,6 +765,7 @@
 57C:\Users\alber\divertidamente2\node_modules\utility-types133637603902319954 1
 92C:\Users\alber\divertidamente2\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133637603905299817 0
 85C:\Users\alber\divertidamente2\node_modules\entities\lib\generated\decode-data-xml.js133637603897557630 0
+57C:\Users\alber\divertidamente2\dist\alegria.8d4abcb0.webp133645173752557959 0
 58C:\Users\alber\divertidamente2\node_modules\weak-lru-cache133637603899555542 1
 69C:\Users\alber\divertidamente2\node_modules\weak-lru-cache\index.d.ts133637603899640028 0
 75C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\regions\VC.js133645029862007543 0
@@ -833,7 +838,7 @@
 85C:\Users\alber\divertidamente2\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133637603913358092 0
 71C:\Users\alber\divertidamente2\node_modules\utility-types\dist\index.js133637603896144463 0
 63C:\Users\alber\divertidamente2\node_modules\svgo\lib\types.d.ts133637603905925684 0
-57C:\Users\alber\divertidamente2\dist\inveja11.a0f6bc73.png133645160240717791 0
+57C:\Users\alber\divertidamente2\dist\inveja11.a0f6bc73.png133645351536026115 0
 63C:\Users\alber\divertidamente2\node_modules\@parcel\events\test133637603901538936 1
 80C:\Users\alber\divertidamente2\node_modules\utility-types\dist\mapped-types.d.ts133637603903449318 0
 69C:\Users\alber\divertidamente2\node_modules\svgo\plugins\prefixIds.js133637603908970861 0
@@ -950,7 +955,7 @@
 75C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\regions\BI.js133645029850594009 0
 98C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\function\var.cjs133637603912726713 0
 84C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\filereader.js133645029855647728 0
-55C:\Users\alber\divertidamente2\dist\inveja.f2e64962.jpg133645160241265797 0
+55C:\Users\alber\divertidamente2\dist\inveja.f2e64962.jpg133645351536324249 0
 82C:\Users\alber\divertidamente2\node_modules\type-fest\source\iterable-element.d.ts133637603903240498 0
 91C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\domutils\lib\feeds.d.ts133637603907629001 0
 79C:\Users\alber\divertidamente2\node_modules\type-fest\source\literal-union.d.ts133637603903655917 0
@@ -1659,7 +1664,7 @@
 75C:\Users\alber\divertidamente2\node_modules\css-tree\lib\syntax\node\CDO.js133637603913479730 0
 57C:\Users\alber\divertidamente2\node_modules\picomatch\lib133637603898811712 1
 63C:\Users\alber\divertidamente2\node_modules\picomatch\README.md133637603900288013 0
-57C:\Users\alber\divertidamente2\dist\index.f75de5e1.js.map133645160238435820 0
+57C:\Users\alber\divertidamente2\dist\index.f75de5e1.js.map133645351536389903 0
 59C:\Users\alber\divertidamente2\node_modules\.bin\semver.cmd133637603929773984 0
 70C:\Users\alber\divertidamente2\node_modules\picomatch\lib\constants.js133637603894265948 0
 82C:\Users\alber\divertidamente2\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133637603899143052 0
@@ -1855,7 +1860,7 @@
 78C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\midi.js133645029858420312 0
 101C:\Users\alber\divertidamente2\node_modules\node-releases\data\release-schedule\release-schedule.json133637603897318243 0
 97C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\domutils\lib\traversal.js.map133637603907414168 0
-55C:\Users\alber\divertidamente2\dist\riley2.982416fc.jpg133645160238263002 0
+55C:\Users\alber\divertidamente2\dist\riley2.982416fc.jpg133645351534343912 0
 92C:\Users\alber\divertidamente2\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133637603914403109 0
 82C:\Users\alber\divertidamente2\node_modules\node-releases\data\processed\envs.json133637603894491644 0
 107C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\plugins.js133637603906547302 0
@@ -2090,7 +2095,6 @@
 56C:\Users\alber\divertidamente2\node_modules\lmdb\LICENSE133637603902319954 0
 58C:\Users\alber\divertidamente2\node_modules\lmdb\native.js133637603913256182 0
 62C:\Users\alber\divertidamente2\node_modules\lmdb\node-index.js133637603913276216 0
-79C:\Users\alber\divertidamente2\node_modules\css-tree\lib\syntax\function\var.js133637603918556778 0
 58C:\Users\alber\divertidamente2\node_modules\lmdb\README.md133637603913706583 0
 65C:\Users\alber\divertidamente2\node_modules\lmdb\rollup.config.js133637603913401912 0
 97C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js.map133637603904014847 0
@@ -2102,6 +2106,7 @@
 93C:\Users\alber\divertidamente2\node_modules\@swc\helpers\cjs\_check_private_redeclaration.cjs133637603901810772 0
 61C:\Users\alber\divertidamente2\node_modules\csso\lib\utils.js133637603911064432 0
 87C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\console-basic.js133645029851235553 0
+73C:\Users\alber\divertidamente2\dist\riley-divertida-mente-2.9070207e.avif133645173962636340 0
 75C:\Users\alber\divertidamente2\node_modules\lmdb\util\set-optional-deps.cjs133637603910616010 0
 83C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\webcodecs.js133645029862694161 0
 61C:\Users\alber\divertidamente2\node_modules\lmdb\util\when.js133637603913415397 0
@@ -2120,8 +2125,7 @@
 75C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\regions\ST.js133645029861045341 0
 97C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\String.cjs133637603911718803 0
 69C:\Users\alber\divertidamente2\node_modules\lmdb\src\v8-functions.cpp133637603911264583 0
-62C:\Users\alber\divertidamente2\node_modules\lmdb\src\windows.c133637603910303997 0
-56C:\Users\alber\divertidamente2\dist\Intensa.4b56198b.ttf133645160238217834 0
+56C:\Users\alber\divertidamente2\dist\Intensa.4b56198b.ttf133645351532917445 0
 88C:\Users\alber\divertidamente2\node_modules\lmdb\node_modules\node-addon-api\common.gypi133637603894604842 0
 64C:\Users\alber\divertidamente2\node_modules\css-select\README.md133637603909333571 0
 88C:\Users\alber\divertidamente2\node_modules\lmdb\node_modules\node-addon-api\except.gypi133637603895199518 0
@@ -2252,7 +2256,7 @@
 58C:\Users\alber\divertidamente2\node_modules\.bin\json5.cmd133637603929762197 0
 83C:\Users\alber\divertidamente2\node_modules\@parcel\packager-svg\lib\SVGPackager.js133637603894347955 0
 101C:\Users\alber\divertidamente2\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133637603898172198 0
-42C:\Users\alber\divertidamente2\dist\styles133645171411929240 1
+42C:\Users\alber\divertidamente2\dist\styles133645369642621876 1
 98C:\Users\alber\divertidamente2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133637603909258062 0
 122C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\StyleSheet.js133637603912582026 0
 99C:\Users\alber\divertidamente2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133637603913844624 0
@@ -2377,7 +2381,7 @@
 76C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_set\package.json133637603920186043 0
 68C:\Users\alber\divertidamente2\node_modules\js-yaml\lib\exception.js133637603899668082 0
 75C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\regions\AL.js133645029849959597 0
-43C:\Users\alber\divertidamente2\dist\scripts133645160237344644 1
+43C:\Users\alber\divertidamente2\dist\scripts133645351537718689 1
 65C:\Users\alber\divertidamente2\node_modules\js-yaml\lib\loader.js133637603903818863 0
 118C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Percentage.js133637603911769569 0
 62C:\Users\alber\divertidamente2\node_modules\js-yaml\lib\schema133637603903424390 1
@@ -2385,6 +2389,7 @@
 66C:\Users\alber\divertidamente2\node_modules\js-yaml\lib\snippet.js133637603905396795 0
 63C:\Users\alber\divertidamente2\node_modules\js-yaml\lib\type.js133637603905695439 0
 68C:\Users\alber\divertidamente2\node_modules\is-arrayish\package.json133637603893543228 0
+57C:\Users\alber\divertidamente2\dist\index.f4d280f9.js.map133645173966970849 0
 70C:\Users\alber\divertidamente2\node_modules\js-yaml\lib\type\binary.js133637603894413701 0
 94C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDO.cjs133637603901696399 0
 100C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\entities\lib\esm\escape.d.ts.map133637603907248129 0
@@ -2804,6 +2809,7 @@
 77C:\Users\alber\divertidamente2\node_modules\@parcel\workers\src\childState.js133637603899732774 0
 68C:\Users\alber\divertidamente2\node_modules\dotenv-expand\index.d.ts133637603894703734 0
 102C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\parse.cjs133637603910768942 0
+59C:\Users\alber\divertidamente2\dist\vergonha2.2175c2d4.webp133645173752552900 0
 72C:\Users\alber\divertidamente2\node_modules\@parcel\workers\lib\child.js133637603898162215 0
 65C:\Users\alber\divertidamente2\node_modules\dotenv-expand\LICENSE133637603896040439 0
 70C:\Users\alber\divertidamente2\node_modules\dotenv-expand\package.json133637603893573192 0
@@ -2888,7 +2894,7 @@
 72C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_create_super133637603915881918 1
 79C:\Users\alber\divertidamente2\node_modules\domelementtype\lib\esm\package.json133637603897032624 0
 71C:\Users\alber\divertidamente2\node_modules\dom-serializer\package.json133637603899091244 0
-55C:\Users\alber\divertidamente2\dist\medo2.fedb3b23.webp133645160238242928 0
+55C:\Users\alber\divertidamente2\dist\medo2.fedb3b23.webp133645351533391693 0
 70C:\Users\alber\divertidamente2\node_modules\@parcel\compressor-raw\lib133637603894222434 1
 68C:\Users\alber\divertidamente2\node_modules\dom-serializer\README.md133637603901533877 0
 88C:\Users\alber\divertidamente2\node_modules\dom-serializer\node_modules\entities\LICENSE133637603893727836 0
@@ -3153,6 +3159,7 @@
 99C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\mdn-text-decoration-color.js133645029858265987 0
 102C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133637603907900502 0
 92C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\css-matches-pseudo.js133645029852574793 0
+58C:\Users\alber\divertidamente2\dist\index.3e8ae5d5.css.map133645173966970849 0
 96C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index.cjs133637603908807004 0
 75C:\Users\alber\divertidamente2\node_modules\@swc\helpers\cjs\_using_ctx.cjs133637603910821951 0
 90C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\entities\lib\decode.js133637603900177426 0
@@ -3168,6 +3175,7 @@
 103C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\SelectorList.cjs133637603911490654 0
 101C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\WhiteSpace.cjs133637603912945481 0
 105C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\function\expression.cjs133637603906442259 0
+54C:\Users\alber\divertidamente2\dist\index.3e8ae5d5.css133645173966893058 0
 96C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\config\mix.cjs133637603910111180 0
 108C:\Users\alber\divertidamente2\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133637603910821951 0
 72C:\Users\alber\divertidamente2\node_modules\css-tree\lib\lexer\search.js133637603915705101 0
@@ -3215,6 +3223,7 @@
 87C:\Users\alber\divertidamente2\node_modules\csso\lib\restructure\4-restructShorthand.js133637603907448825 0
 82C:\Users\alber\divertidamente2\node_modules\csso\lib\restructure\7-mergeRuleset.js133637603907590376 0
 91C:\Users\alber\divertidamente2\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133637603913561913 0
+56C:\Users\alber\divertidamente2\dist\nojinho.6be8c4d0.png133645173965158485 0
 96C:\Users\alber\divertidamente2\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts133637603908679608 0
 73C:\Users\alber\divertidamente2\node_modules\csso\lib\restructure\index.js133637603910178696 0
 124C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.js133637603899640028 0
@@ -3382,6 +3391,7 @@
 86C:\Users\alber\divertidamente2\node_modules\css-tree\lib\syntax\function\expression.js133637603914250672 0
 82C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\webauthn.js133645029862682467 0
 88C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\input-datetime.js133645029857049217 0
+79C:\Users\alber\divertidamente2\node_modules\css-tree\lib\syntax\function\var.js133637603918556778 0
 132C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133637603902455064 0
 77C:\Users\alber\divertidamente2\node_modules\css-tree\lib\syntax\config\mix.js133637603915299992 0
 87C:\Users\alber\divertidamente2\node_modules\@parcel\workers\lib\process\ProcessChild.js133637603905372891 0
@@ -3492,9 +3502,9 @@
 93C:\Users\alber\divertidamente2\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133637603908373625 0
 85C:\Users\alber\divertidamente2\node_modules\css-tree\cjs\syntax\node\MediaFeature.cjs133637603910349892 0
 57C:\Users\alber\divertidamente2\node_modules\chalk\license133637603893597925 0
-54C:\Users\alber\divertidamente2\dist\vergo.b6033c6a.jpg133645160238263002 0
+54C:\Users\alber\divertidamente2\dist\vergo.b6033c6a.jpg133645351533950943 0
 90C:\Users\alber\divertidamente2\node_modules\css-tree\cjs\syntax\node\MediaFeatureRange.cjs133637603910397488 0
-73C:\Users\alber\divertidamente2\dist\riley-divertida-mente-2.dcd25c6c.avif133645160240156599 0
+73C:\Users\alber\divertidamente2\dist\riley-divertida-mente-2.dcd25c6c.avif133645351531929416 0
 87C:\Users\alber\divertidamente2\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133637603910484683 0
 88C:\Users\alber\divertidamente2\node_modules\css-tree\cjs\syntax\node\NestingSelector.cjs133637603910821951 0
 76C:\Users\alber\divertidamente2\node_modules\css-tree\cjs\syntax\node\Nth.cjs133637603910864660 0
@@ -3784,7 +3794,7 @@
 86C:\Users\alber\divertidamente2\node_modules\css-select\lib\pseudo-selectors\index.d.ts133637603910349892 0
 88C:\Users\alber\divertidamente2\node_modules\css-select\lib\pseudo-selectors\index.js.map133637603907703351 0
 93C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\input-file-multiple.js133645029857080898 0
-59C:\Users\alber\divertidamente2\dist\vergonha2.62da4b23.webp133645160238242928 0
+59C:\Users\alber\divertidamente2\dist\vergonha2.62da4b23.webp133645351533391693 0
 86C:\Users\alber\divertidamente2\node_modules\css-select\lib\pseudo-selectors\pseudos.js133637603903434444 0
 107C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\atrule133637603906420829 1
 86C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_class_apply_descriptor_get133637603914848467 1
@@ -4431,7 +4441,7 @@
 84C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\nav-timing.js133645029858735622 0
 69C:\Users\alber\divertidamente2\node_modules\@parcel\namer-default\src133637603894896720 1
 81C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\netinfo.js133645029858790265 0
-58C:\Users\alber\divertidamente2\dist\divertida.769e8d6a.mp4133645156357119168 0
+58C:\Users\alber\divertidamente2\dist\divertida.769e8d6a.mp4133645351538017903 0
 97C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\stricttransportsecurity.js133645029861153872 0
 87C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\notifications.js133645029858957610 0
 88C:\Users\alber\divertidamente2\node_modules\caniuse-lite\data\features\object-observe.js133645029859054086 0
@@ -4710,7 +4720,7 @@
 85C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_to_primitive\package.json133637603920551771 0
 92C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_to_consumable_array\package.json133637603920531812 0
 81C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_to_array\package.json133637603920501849 0
-56C:\Users\alber\divertidamente2\dist\tedio1.44a5e86e.webp133645160238407006 0
+56C:\Users\alber\divertidamente2\dist\tedio1.44a5e86e.webp133645351533462535 0
 78C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_throw\package.json133637603920470983 0
 94C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_sliced_to_array_loose\package.json133637603920271666 0
 88C:\Users\alber\divertidamente2\node_modules\@swc\helpers\_\_sliced_to_array\package.json133637603920287690 0
@@ -4756,6 +4766,7 @@
 84C:\Users\alber\divertidamente2\node_modules\@parcel\reporter-cli\src\bundleReport.js133637603894344217 0
 87C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_await_async_generator.mjs133637603921085093 0
 100C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133637603921120548 0
+58C:\Users\alber\divertidamente2\dist\divertida.59efcd9e.mp4133645173756508236 0
 92C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_apply_descriptor_get.mjs133637603921132110 0
 92C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133637603921144736 0
 95C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs133637603921205106 0
@@ -4769,7 +4780,7 @@
 90C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_private_method_get.mjs133637603921573538 0
 90C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_private_method_set.mjs133637603921609453 0
 104C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133637603921619654 0
-57C:\Users\alber\divertidamente2\dist\nojinho2.b1126a35.png133645160240717791 0
+57C:\Users\alber\divertidamente2\dist\nojinho2.b1126a35.png133645351535755798 0
 99C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133637603921814321 0
 97C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133637603921828587 0
 75C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_construct.mjs133637603921844171 0
@@ -4777,7 +4788,7 @@
 101C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133637603921898949 0
 81C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_define_property.mjs133637603921960024 0
 73C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_extends.mjs133637603921990720 0
-54C:\Users\alber\divertidamente2\dist\raiva.89544dcd.jpg133645160238523256 0
+54C:\Users\alber\divertidamente2\dist\raiva.89544dcd.jpg133645351533932182 0
 116C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133637603901909181 0
 70C:\Users\alber\divertidamente2\node_modules\@parcel\workers\index.d.ts133637603907663307 0
 69C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_get.mjs133637603922010689 0
@@ -4792,7 +4803,6 @@
 89C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs133637603922211711 0
 81C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_new_arrow_check.mjs133637603922335624 0
 85C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133637603922355737 0
-85C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_object_spread_props.mjs133637603922376150 0
 91C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_object_without_properties.mjs133637603922408230 0
 81C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_read_only_error.mjs133637603922418752 0
 71C:\Users\alber\divertidamente2\node_modules\@swc\helpers\src\_throw.mjs133637603922531449 0
@@ -5276,6 +5286,7 @@
 71C:\Users\alber\divertidamente2\node_modules\@parcel\plugin\package.json133637603896385564 0
 77C:\Users\alber\divertidamente2\node_modules\@parcel\plugin\src\PluginAPI.d.ts133637603897358152 0
 75C:\Users\alber\divertidamente2\node_modules\@parcel\plugin\lib\PluginAPI.js133637603894344217 0
+54C:\Users\alber\divertidamente2\dist\raiva.157618d3.jpg133645173754227224 0
 69C:\Users\alber\divertidamente2\node_modules\@parcel\packager-wasm\lib133637603897184033 1
 73C:\Users\alber\divertidamente2\node_modules\@parcel\packager-wasm\LICENSE133637603893641409 0
 78C:\Users\alber\divertidamente2\node_modules\@parcel\packager-wasm\package.json133637603898634171 0
@@ -5396,6 +5407,7 @@
 123C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\background.js133637603902093396 0
 114C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js133637603908322821 0
 107C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeTitle.js133637603908403870 0
+54C:\Users\alber\divertidamente2\dist\vergo.3a85fab8.jpg133645173754227224 0
 121C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133637603908482528 0
 113C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUselessDefs.js133637603908749583 0
 122C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133637603908850473 0
@@ -5689,7 +5701,7 @@
 113C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Declaration.js133637603905465751 0
 105C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Raw.js133637603906868800 0
 106C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Rule.js133637603906951569 0
-53C:\Users\alber\divertidamente2\dist\logo.c493797d.png133645160240865667 0
+53C:\Users\alber\divertidamente2\dist\logo.c493797d.png133645351535964138 0
 107C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\utils.js133637603907414168 0
 112C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\WhiteSpace.js133637603907629001 0
 105C:\Users\alber\divertidamente2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.min.js133637603905372891 0
@@ -5827,10 +5839,11 @@
 68C:\Users\alber\divertidamente2\node_modules\@parcel\fs\src\NodeFS.js133637603900212249 0
 69C:\Users\alber\divertidamente2\node_modules\@parcel\fs\lib\browser.js133637603894604842 0
 73C:\Users\alber\divertidamente2\node_modules\@parcel\fs\lib\browser.js.map133637603902595480 0
+53C:\Users\alber\divertidamente2\dist\logo.94df4be8.png133645173965158485 0
 71C:\Users\alber\divertidamente2\node_modules\@parcel\fs\lib\index.js.map133637603903391012 0
 62C:\Users\alber\divertidamente2\node_modules\@parcel\events\lib133637603900313080 1
 62C:\Users\alber\divertidamente2\node_modules\@parcel\events\src133637603901152942 1
-58C:\Users\alber\divertidamente2\dist\ansiedade.85271c39.jpg133645160240767892 0
+58C:\Users\alber\divertidamente2\dist\ansiedade.85271c39.jpg133645351535755798 0
 76C:\Users\alber\divertidamente2\node_modules\@parcel\events\src\Disposable.js133637603895044762 0
 72C:\Users\alber\divertidamente2\node_modules\@parcel\events\src\errors.js133637603898162215 0
 71C:\Users\alber\divertidamente2\node_modules\@parcel\events\src\index.js133637603899365462 0
@@ -6079,22 +6092,38 @@
 53C:\Users\alber\divertidamente2\node_modules\.bin\svgo133637603929762197 0
 57C:\Users\alber\divertidamente2\node_modules\.bin\svgo.ps1133637603929762197 0
 75C:\Users\alber\divertidamente2\node_modules\.bin\update-browserslist-db.cmd133644522758678748 0
-57C:\Users\alber\divertidamente2\dist\alegria.6addca81.webp133645160240236201 0
-60C:\Users\alber\divertidamente2\dist\ansiedade2.b132cf7a.webp133645160240236201 0
+57C:\Users\alber\divertidamente2\dist\alegria.6addca81.webp133645351534675746 0
+56C:\Users\alber\divertidamente2\dist\alegria.8a87f79d.jpg133645173754227224 0
+58C:\Users\alber\divertidamente2\dist\ansiedade.9c26b566.jpg133645173965208657 0
+60C:\Users\alber\divertidamente2\dist\ansiedade2.20d458ff.webp133645173962647193 0
+60C:\Users\alber\divertidamente2\dist\ansiedade2.b132cf7a.webp133645351534693754 0
 64C:\Users\alber\divertidamente2\dist\ansiedadefundo.8cd823f5.webp133645154067365210 0
-63C:\Users\alber\divertidamente2\dist\divertidamente2.59712999.js133645160237221381 0
-67C:\Users\alber\divertidamente2\dist\divertidamente2.59712999.js.map133645160237289520 0
-54C:\Users\alber\divertidamente2\dist\ennui.350112ce.jpg133645160238263002 0
+63C:\Users\alber\divertidamente2\dist\divertidamente2.59712999.js133645351537521551 0
+67C:\Users\alber\divertidamente2\dist\divertidamente2.59712999.js.map133645351537561419 0
+54C:\Users\alber\divertidamente2\dist\ennui.350112ce.jpg133645351533950943 0
+54C:\Users\alber\divertidamente2\dist\ennui.e652c809.jpg133645173754227224 0
 54C:\Users\alber\divertidamente2\dist\index.ecd1197f.ttf133637605277831076 0
-53C:\Users\alber\divertidamente2\dist\index.f75de5e1.js133645160238323067 0
-46C:\Users\alber\divertidamente2\dist\index.html133645160238263002 0
-59C:\Users\alber\divertidamente2\dist\insideout2.8020e6a4.jpg133645160246058842 0
+53C:\Users\alber\divertidamente2\dist\index.f4d280f9.js133645173966893058 0
+53C:\Users\alber\divertidamente2\dist\index.f75de5e1.js133645351536324249 0
+59C:\Users\alber\divertidamente2\dist\insideout2.8020e6a4.jpg133645351541267313 0
+59C:\Users\alber\divertidamente2\dist\insideout2.c10c7d1c.jpg133645173938328773 0
 63C:\Users\alber\divertidamente2\dist\Intensa Fuente.ecd1197f.ttf133637607022591568 0
+56C:\Users\alber\divertidamente2\dist\Intensa.944fb58d.ttf133645173752557959 0
+55C:\Users\alber\divertidamente2\dist\inveja.4f1e851e.jpg133645173965158485 0
+57C:\Users\alber\divertidamente2\dist\inveja11.fb479d06.png133645173965158485 0
 52C:\Users\alber\divertidamente2\dist\joy.349a8d19.jpg133645155082385008 0
-54C:\Users\alber\divertidamente2\dist\medo.7fc798ad.webp133645160238468842 0
-56C:\Users\alber\divertidamente2\dist\nojinho.be3e177b.png133645160241265797 0
-55C:\Users\alber\divertidamente2\dist\raiva.fc66b5d8.webp133645160240156599 0
-60C:\Users\alber\divertidamente2\dist\tristeza-2.4238d628.jpeg133645160241335878 0
-57C:\Users\alber\divertidamente2\dist\tristeza.0271e039.jpg133645160238217834 0
-51C:\Users\alber\divertidamente2\dist\scripts\main.js133645160237221381 0
-55C:\Users\alber\divertidamente2\dist\scripts\main.js.map133645160237289520 0
+54C:\Users\alber\divertidamente2\dist\medo.70143bf1.webp133645173752635458 0
+54C:\Users\alber\divertidamente2\dist\medo.7fc798ad.webp133645351533462535 0
+55C:\Users\alber\divertidamente2\dist\medo2.491c80f2.webp133645173752542797 0
+56C:\Users\alber\divertidamente2\dist\nojinho.be3e177b.png133645351535820364 0
+57C:\Users\alber\divertidamente2\dist\nojinho2.09b507f2.png133645173965158485 0
+55C:\Users\alber\divertidamente2\dist\raiva.60497353.webp133645173752542797 0
+55C:\Users\alber\divertidamente2\dist\raiva.fc66b5d8.webp133645351534675746 0
+55C:\Users\alber\divertidamente2\dist\riley2.fb2861df.jpg133645173965158485 0
+56C:\Users\alber\divertidamente2\dist\tedio1.20eaca75.webp133645173752592605 0
+60C:\Users\alber\divertidamente2\dist\tristeza-2.37fadfd6.jpeg133645173965208657 0
+60C:\Users\alber\divertidamente2\dist\tristeza-2.4238d628.jpeg133645351536340417 0
+57C:\Users\alber\divertidamente2\dist\tristeza.0271e039.jpg133645351534322536 0
+57C:\Users\alber\divertidamente2\dist\tristeza.6e421808.jpg133645173965158485 0
+51C:\Users\alber\divertidamente2\dist\scripts\main.js133645351537521551 0
+55C:\Users\alber\divertidamente2\dist\scripts\main.js.map133645351537667175 0

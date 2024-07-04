@@ -11,6 +11,9 @@
         .sinopse{
             &__title {
                 padding-left: 28px;
+                @media(max-width:640px){
+                    padding-top: 5%;
+                }
             }
             &__container {
                 display: block;
@@ -28,7 +31,8 @@
                     padding-left: 40px;
                     width: 80%;
                     @media(max-width:640px){
-                        margin-left: 40px;
+                        width: -webkit-fill-available;
+                        padding: 14px;
                     }
                 }
             }

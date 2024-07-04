@@ -3,16 +3,13 @@ header {
         width: 100%;
         margin: 0 auto;
         font-family: variables.$primaryFont;
-        background-color: rgb(13, 181, 200);
+        background-color:variables.$headerbackgroundfootercolor;
         align-items:center;
         padding-top: 16px;
         padding-bottom: 16px;
         display: block;
 
         @media(max-width:640px) {
-            width: 100%;
-        }
-        @media(min-width:300px) {
             width: 100%;
             padding-left: 20px;
             font-size: 12px;
@@ -30,10 +27,14 @@ header {
                 margin-right: 12px;
                 font-size: variables.$menuFont-size;
                 display: block;
+
+                @media(max-width:640px) {
+                    font-size: 20px;
+                }
                 
                 a {
                     text-decoration: none;
-                    color: #ffff82;
+                    color: variables.$headerfootercolor;
                     cursor: pointer;
                 }
             }

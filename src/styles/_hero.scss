@@ -3,18 +3,14 @@
         display: flex;
 
         &__logo {
+            width: 37%;
             position: absolute;
-            width: 380px;
-            top: 152px;
-            left: 346px;
+            top: 28%;
+            left: 34%;
             @media(max-width:640px) {
-                width: 184px;
-                top: 120px;
-                left: 128px;
-            }
-
-            @media(max-height:620px) {
-                display: none;
+                width: 34%;
+                top: 18%;
+                left: 34%;
             }
         }
         &__video {

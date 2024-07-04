@@ -21,11 +21,13 @@
         display: grid;
         grid-template-columns: 70% 30%;
         padding-top: 120px;
-
         @media(max-width:640px) {
-            display: block;
+            margin-top: 0;
             padding: 0px;
-            min-height: 924px;
+            height: 602px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             $card-background-color: rgba(152, 227, 234, 0.5); // 50% transparência
             &__card {
                 margin: 83px;
@@ -34,6 +36,7 @@
                 margin-left: 18px;
                 font-size: 12px;
                 width: 61%;
+                display: inline-table;
                 }
         }
         &__logo {
@@ -60,6 +63,9 @@
             max-width: 260px;
             text-align: center;
             display: block;
+            @media(max-width:640px) {
+                display: inline-table;
+            }
             &__title {
                 display: flex;
                 padding-bottom: 16px;
